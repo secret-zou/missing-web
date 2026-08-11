@@ -27,3 +27,5 @@ params:
   BookTheme: "auto"
   BookMenuBundle: /menu
   BookSearch: true
+  baseURL: "/"
+  relativeURLs: true
